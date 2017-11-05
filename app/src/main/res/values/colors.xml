@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF7700</color>
+    <color name="colorPrimaryDark">#FF8800</color>
+    <color name="colorAccent">#FF9933</color>
+    <color name="currency_color">#FF9900</color>
+    <color name="white">#FFFFFF</color>
+    <color name="primary_btn">#0099CC</color>
+</resources>

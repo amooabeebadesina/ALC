@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ALC</string>
+    <string name="opening_brace">(</string>
+    <string name="closing_brace">)</string>
+</resources>
